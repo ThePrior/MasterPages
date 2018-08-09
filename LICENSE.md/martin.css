@@ -1,0 +1,34 @@
+#O365_MainLink_Help
+{
+display:none;
+}
+
+#Newsfeed_BrandBar
+{
+display:none;
+}
+
+#O365_MainLink_NavMenu
+{
+display:none;
+}
+#Newsfeed_BrandBar
+{
+background-color:green;
+}
+.o365cs-nav-header16 .o365cs-nav-centerAlign {
+    background-color: #0092CE;
+}
+.o365spo.o365cs-base .o365cs-topnavBGColor-2 , .o365cs-topnavBGColor-2.o365spo.o365cs-base , .o365cs-topnavBGColor-2.o365spo#O365_NavHeader {
+	background-color:black !important;
+}
+#Sites_BrandBar
+{
+  display: none;
+}
+.o365cs-nav-header16 .o365cs-nav-leftAlign {
+    background-color: #0092CE;
+}
+
+ 
+

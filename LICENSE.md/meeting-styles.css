@@ -1,0 +1,30 @@
+.o365cs-base .o365cs-navMenuButton 
+{
+display: none;
+}
+
+.o365cs-nav-brandingText
+ {
+   display: none;
+ }
+ 
+#O365_MainLink_Help
+{
+   display: none;
+}
+
+#RibbonContainer-TabRowRight { display: none !important;}
+.ms-siteicon-img {
+    max-width: 180px;
+    max-height: 64px;
+    display: none;
+}
+
+.o365cs-nav-header16 .o365cs-nav-brandingText {
+display: none;
+}
+
+.o365cs-nav-header16 .o365cs-nav-centerAlign {
+    text-align: left;
+}
+

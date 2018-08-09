@@ -1,0 +1,20 @@
+<style type="text/css">
+ .o365cs-nav-appItem
+ {
+   display: none;
+ }
+ #Sites_BrandBar
+ {
+   display: none;
+ }
+ #O365_SubLink_ShellAboutMe
+ {
+   display: none;
+ }
+ #O365_MainLink_Help
+ {
+   display: none;
+ }
+ </style>
+
+https://jwcooney.com/2017/06/30/customizing-the-top-bar-in-sharepoint-2016-on-premesis/

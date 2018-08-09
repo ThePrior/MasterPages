@@ -1,0 +1,42 @@
+https://jwcooney.com/2017/06/30/customizing-the-top-bar-in-sharepoint-2016-on-premesis/ 
+
+<style type="text/css">
+ .o365cs-nav-appItem
+ {
+   display: none;
+ }
+ #Sites_BrandBar
+ {
+   display: none;
+ }
+ #O365_SubLink_ShellAboutMe
+ {
+   display: none;
+ }
+ #O365_MainLink_Help
+ {
+   display: none;
+ }
+ </style>
+
+
+
+------------------
+https://social.technet.microsoft.com/Forums/Lync/en-US/cd71eb61-b7b8-4bad-8fd8-c23cff25e898/remove-sites-link-from-suitebar?forum=SP2016
+
+
+<style type="text/css">
+#Sites_BrandBar
+{ display: none }
+
+</style> 
+
+OR
+
+.o365cs-nav-header16 .o365cs-nav-o365Branding { display: none; }
+.o365cs-nav-header16 .o365cs-nav-appTitleLine { display: none; }
+.o365cs-nav-header16 .o365cs-nav-appTitle { display: none; }
+
+------------------
+
+https://sharepoint.stackexchange.com/questions/177733/sp2016-change-suite-bar

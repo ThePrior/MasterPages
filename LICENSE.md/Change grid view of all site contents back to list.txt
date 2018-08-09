@@ -1,0 +1,15 @@
+Change grid view of all site contents back to list
+
+The Grid view is a new function of SP 2013 and SP 2016.
+
+There is no OOB solution to change Site Contents page from a Grid to a List view, you need to use code to achieve your purpose.
+
+The Site Contents view is actually all formatted using CSS with unique IDs and classes, which makes it a snip. You can use jQuery or CSS, check below articles:
+
+Martin Hatch provides a sample using jQuery in below article, which may be helpful to you:
+
+https://www.martinhatch.com/2013/08/changing-site-contents-to-list-view-css.html 
+
+José Quinto shows how to return to 2010 styles using CSS:
+
+https://blog.josequinto.com/2014/11/24/change-site-contents-style-in-sharepoint-2013/#Introduction   
